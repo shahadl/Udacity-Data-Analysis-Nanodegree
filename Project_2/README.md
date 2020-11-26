@@ -18,3 +18,12 @@ so I can answer my questions:
 ## My findings
 ### 1. Which `genres` are most popular?
 ![Output](https://github.com/shahadl/Udacity-Data-Analysis-Nanodegree/blob/main/Project_2/image/output1.PNG)
+
+### 2. Is there a positive correlation between the `budget` of the movie and the `reveneu`?
+![Output](https://github.com/shahadl/Udacity-Data-Analysis-Nanodegree/blob/main/Project_2/image/output3.PNG)
+
+### 3. Which `year` has most released movies?
+![Output](https://github.com/shahadl/Udacity-Data-Analysis-Nanodegree/blob/main/Project_2/image/output2.PNG)
+
+### 4. What is the movie that has the highest `budget`?
+![Output](https://github.com/shahadl/Udacity-Data-Analysis-Nanodegree/blob/main/Project_2/image/output4.PNG)
