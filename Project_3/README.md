@@ -1,4 +1,4 @@
-# P3: Analyze A/B Test Results
+# Project 3: Analyze A/B Test Results
 ## Overview
 In this project, I demonstrated a A/B Test for a e-commerce company's website to decide whether they should implement their new page or keep the old page. Using the data with groups of control, treatment and their conversion, I performed the two-tailed hypothesis test and regression approach to determine results. The technique was primary using Python and I used the Boostrate Sampling method to perform the hypothesis test. Besides, I also demonstrated z-test to compare the results. The regression method was Logit Regression, and the goal was to see if there is a significant difference in conversion based on which page a customer receives.
 
