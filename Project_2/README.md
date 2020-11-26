@@ -9,7 +9,7 @@ The project primary goal is to go through the general data analysis process:
 - exploratory data analysis 
 - conclusion
 
-so I can answer my questions:
+So I can answer my questions:
 1. Which `genres` are most popular?
 2. Is there a positive correlation between the `budget` of the movie and the `reveneu`?
 3. Which `year` has most released movies?
