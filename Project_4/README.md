@@ -1,3 +1,7 @@
+# Wrangle and Analyze Data
+# Project Overview
+Wrangling and Analyzing the Data through the following steps:
+
 ## Gathering the Data:
 The data for this project was in three different formats:
 1. `Twitter Archive File — WeRateDogs`: WeRateDogs downloaded their Twitter archive and shared it exclusively for use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
@@ -18,5 +22,5 @@ After gathering the data, the three tables were saved and assessed Visually and 
 I followed the programmatic Data Cleaning process i.e. **Define**, **Code** and **Test**. I converted my observations from the assess step into defined problems, translated these definitions to sophisticated code to fix these problems, then tested the three datasets to make sure the operations worked.
 
 ## Analyzing the Data
-Using this freshly cleaned WeRateDogs Twitter data, interesting and trustworthy analyses and visualizations were created to communicate back the findings.
+Using this freshly cleaned WeRateDogs Twitter data, interesting and insights and visualizations were created to communicate back the findings.
 
