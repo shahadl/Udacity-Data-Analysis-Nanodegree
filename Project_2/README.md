@@ -17,4 +17,4 @@ so I can answer my questions:
 
 ## My findings
 ### 1. Which `genres` are most popular?
-![Output](https://github.com/shahadl/Udacity-Data-Analysis-Nanodegree/Project_2/blob/main/image/output1.PNG)
+![Output](https://github.com/shahadl/Udacity-Data-Analysis-Nanodegree/blob/main/Project_2/image/output1.PNG)
